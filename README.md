@@ -1,4 +1,4 @@
-# Water Meter Prioritization Dashboard
+# Water Meter Prioritization Decision Support Tool
 
 This project was developed as part of a public AI/ML competition in Catalonia, where it was awarded 3rd prize.
 
