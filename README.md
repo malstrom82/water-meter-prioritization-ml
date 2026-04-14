@@ -44,4 +44,4 @@ Python · scikit-learn · data processing pipelines · dashboard framework
 
 ## Notes
 This repository contains the application and supporting components.
-A separate README describes installation and usage.
+A separate read.me.txt describes installation and usage.
